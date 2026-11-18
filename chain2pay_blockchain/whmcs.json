@@ -1,0 +1,29 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "chain2pay_blockchain",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "Chain2Pay Blockchain",
+        "tagline": "Blockchain.com Payment Gateway",
+        "long": "Payment gateway module with payouts to your USDC Polygon wallet via Blockchain.com payment processor.",
+        "features": [
+            "Accept payments via Blockchain.com",
+            "Payouts to your USDC Polygon wallet"
+        ]
+    },
+    "logo": {
+        "filename": "blockchain.png"
+    },
+    "support": {
+        "homepage": "https://chain2pay.is/",
+        "docs_url": "https://docs.chain2pay.is/"
+    },
+    "authors": [
+        {
+            "name": "Chain2Pay",
+            "homepage": "https://chain2pay.is/"
+        }
+    ]
+}

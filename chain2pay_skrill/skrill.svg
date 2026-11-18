@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Skrill">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A21CAF"/>
+      <stop offset="1" stop-color="#7A1A78"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="120" rx="26" fill="url(#g)"/>
+  <text x="60" y="73" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="31" font-weight="800" font-style="italic" fill="#fff" letter-spacing="-0.5">Skrill</text>
+</svg>

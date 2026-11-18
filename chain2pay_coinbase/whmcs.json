@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "chain2pay_coinbase",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "Chain2Pay Coinbase",
+        "tagline": "Coinbase Payment Gateway",
+        "long": "Payment gateway module with payouts to your USDC Polygon wallet via Coinbase Onramp.",
+        "features": [
+            "Accept card payments via Coinbase (Visa, Mastercard, Amex)",
+            "Best coverage in United States",
+            "Payouts to your USDC Polygon wallet"
+        ]
+    },
+    "logo": {
+        "filename": "coinbase.webp"
+    },
+    "support": {
+        "homepage": "https://chain2pay.is/",
+        "docs_url": "https://docs.chain2pay.is/"
+    },
+    "authors": [
+        {
+            "name": "Chain2Pay",
+            "homepage": "https://chain2pay.is/"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "chain2pay_custom",
+    "license": "proprietary",
+    "category": "payments",
+    "description": {
+        "name": "Chain2Pay Custom Provider",
+        "tagline": "Route to any Chain2Pay provider",
+        "long": "A single configurable gateway: type any Chain2Pay provider slug (lowercase) and this tile routes checkouts to it via the Chain2Pay API. Payouts go to your USDC Polygon wallet.",
+        "features": [
+            "Use any Chain2Pay provider from one tile",
+            "Just type the provider slug, then paste your key",
+            "Payouts to your USDC Polygon wallet"
+        ]
+    },
+    "logo": {
+        "filename": "custom.png"
+    },
+    "support": {
+        "homepage": "https://chain2pay.is/",
+        "docs_url": "https://docs.chain2pay.is/"
+    },
+    "authors": [
+        {
+            "name": "Chain2Pay",
+            "homepage": "https://chain2pay.is/"
+        }
+    ]
+}
